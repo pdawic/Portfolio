@@ -1,0 +1,26 @@
+event_pogodowy	station_id	miasto	rk	rk_avg	avg_pop_stacji_event	avg_pop_stacji	proc_wplyw_eventu
+fog	62	San Francisco	1	1	0.672	0.6758	-0.56
+fog	59	San Francisco	2	3	0.643	0.6176	4.11
+fog	33	Mountain View	3	23	0.64	0.5511	16.13
+fog	75	San Francisco	4	5	0.63	0.6104	3.21
+fog	45	San Francisco	5	2	0.625	0.6216	0.55
+fog-rain	25	Redwood City	1	19	0.825	0.5565	48.25
+fog-rain	28	Mountain View	2	35	0.777	0.5239	48.31
+fog-rain	11	San Jose	3	48	0.747	0.4987	49.79
+fog-rain	24	Redwood City	4	45	0.722	0.5098	41.62
+fog-rain	62	San Francisco	5	1	0.691	0.6758	2.25
+rain	62	San Francisco	1	1	0.671	0.6758	-0.71
+rain	45	San Francisco	2	2	0.633	0.6216	1.83
+rain	47	San Francisco	3	4	0.601	0.616	-2.44
+rain	75	San Francisco	4	5	0.6	0.6104	-1.7
+rain	58	San Francisco	5	12	0.597	0.5801	2.91
+rain-thunderstorm	75	San Francisco	1	5	0.775	0.6104	26.97
+rain-thunderstorm	71	San Francisco	2	29	0.724	0.5334	35.73
+rain-thunderstorm	61	San Francisco	3	40	0.692	0.5181	33.56
+rain-thunderstorm	63	San Francisco	4	13	0.686	0.5781	18.66
+rain-thunderstorm	41	San Francisco	5	9	0.682	0.5899	15.61
+	62	San Francisco	1	1	0.677	0.6758	0.18
+	59	San Francisco	2	3	0.622	0.6176	0.71
+	45	San Francisco	3	2	0.619	0.6216	-0.42
+	47	San Francisco	4	4	0.618	0.616	0.32
+	56	San Francisco	5	6	0.609	0.6009	1.35
