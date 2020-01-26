@@ -1,0 +1,1 @@
+tutaj wrzucamy jupyterowe notebooki z eksploracji pandas i scipy oraz sql-owe
